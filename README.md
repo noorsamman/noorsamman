@@ -17,7 +17,6 @@ Ab dem 16.10.2026 suche ich einen Platz für mein Pflichtpraktikum.
 
 - [KaufAuto](https://github.com/noorsamman/KaufAuto) – Autoverwaltung als C#-Konsolenanwendung
 - [KaufAuto-OP](https://github.com/noorsamman/KaufAuto-OP) – Weiterentwicklung mit Windows-Forms-Oberfläche
-- [WEB_ENTWICKLUNG](https://github.com/noorsamman/WEB_ENTWICKLUNG) – Übungen zu HTML und CSS
 - [Bewerbungs-Landingpage](https://github.com/noorsamman/Bewerbungs-Landingpage) – meine Bewerbungsseite
 
 ## Kontakt
